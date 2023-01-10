@@ -14,9 +14,10 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Hello-Project] <a name="about-project"></a>
+# 📖 Hello-Project <a name="about-project"></a>
 
 > This is my first project on Microverse. This is the task of Day 2 on the path of being Full Stack Web Developer.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,11 +41,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[Understand the concept of version control]**
-- **[Write a descriptive and easy to understand README in business English]**
-- **[Demonstrate an ability to submit a project for code review]**
+- **Understand the concept of version control**
+- **Write a descriptive and easy to understand README in business English**
+- **Demonstrate an ability to submit a project for code review**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -52,7 +51,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://anita00001.github.io/Hello-Project/)
+- [Live Demo Link]( https://anita00001.github.io/Hello-Project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,14 +63,14 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-Visual Studio Code
-Git Bash
+- **Visual Studio Code**
+- **Git Bash**
 
 ### Setup
 
 Clone this repository to your desired folder:
-cd your-folder
-git clone https://github.com/anita00001/Hello-Project.git
+- **cd your-folder**
+- **git clone https://github.com/anita00001/Hello-Project.git**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,7 +86,7 @@ git clone https://github.com/anita00001/Hello-Project.git
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Build the Portfolio page]**
+- [ ] **Build the Portfolio page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
